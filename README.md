@@ -1,4 +1,5 @@
 # Milestone-Project-1
+HIT DISPLAY SOURCE BLOB FOR EASIER VIEWING
 Game: Recreating the Quasar minigame from the Mass Effect Series
 
 Structure: Game is a simplifyed form of Blackjack and uses 2 buttons to generate numbers until either a 
@@ -28,4 +29,5 @@ Day 6: Finish app.js begin stylin work-
 Day 7: compleat css/Finialize Project-
 
 List of Code Sources:
+-Random Integer Generator from W3Schools: https://www.w3schools.com/js/js_random.asp
 List of Assest Sources:
