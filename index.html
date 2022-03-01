@@ -1,1 +1,35 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link src="style.css">
+    <title>Milestone 1-Game</title>
+</head>
+<body>
+    <div id="container">
+        <nav id="nd">
+            <div id="sdsp">
+                <button id="ls">Play low stakes</button>
+                <button id="hs">Play high stakes</button>
+            </div>
+            <div id="money">
+                <label for="dollars">Amount you wish to wager</label>
+                <input type="text" id="dollars" name="dollars" pattern="$[0-9]{6}">
+            </div>
+        </nav>
+        <main id="md">
+            <div id="gdsp"></div>
+            <div id="cdsp">
+                <button type="submit" id="numberA">Add 4-7</button>
+                <button type="submit" id="numberB">Add 1-8</button>
+            </div>
+        </main>
+        <footer id="bd">
+            <div id="wldsp"></div>
+        </footer>
+    </div>
+    <script src="app.js"></script>    
+</body>
+</html>

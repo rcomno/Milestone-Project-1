@@ -1,5 +1,6 @@
 # Milestone-Project-1
 Game: Recreating the Quasar minigame from the Mass Effect Series
+
 Structure: Game is a simplifyed form of Blackjack and uses 2 buttons to generate numbers until either a 
            winning number is reached or the player goes over 21. As such the player needs to put up $50
            minium inorder to play (or $200 for the 'high stakes' varient) the 2 buttons are add number 
@@ -19,7 +20,7 @@ File Structure: index.html(website), app.js(functions), style.css(styling)
 
 Progress:
 Day 1: Planning-Compleated
-Day 2: index.html prepared/start app.js-
+Day 2: index.html prepared/start app.js-Working
 Day 3: Continue building app.js-
 Day 4: Continue building app.js-
 Day 5: Continue building app.js-
