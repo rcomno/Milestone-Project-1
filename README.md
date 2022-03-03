@@ -21,12 +21,11 @@ File Structure: index.html(website), app.js(functions), style.css(styling)
 
 Progress:
 Day 1: Planning-Compleated
-Day 2: index.html prepared/start app.js-Working
-Day 3: Continue building app.js-
+Day 2: index.html prepared/start app.js-Compleated
+Day 3: Continue building app.js-Working
 Day 4: Continue building app.js-
 Day 5: Continue building app.js-
-Day 6: Finish app.js begin stylin work-
-Day 7: compleat css/Finialize Project-
+Day 6: compleat css/Finialize Project-
 
 List of Code Sources:
 -Random Integer Generator from W3Schools: https://www.w3schools.com/js/js_random.asp

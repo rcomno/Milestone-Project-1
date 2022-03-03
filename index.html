@@ -9,24 +9,25 @@
 </head>
 <body>
     <div id="container">
-        <nav id="nd">
+        <nav id="navd">
             <div id="sdsp">
                 <button id="ls">Play low stakes</button>
                 <button id="hs">Play high stakes</button>
             </div>
             <div id="money">
-                <label for="dollars">Amount you wish to wager</label>
-                <input type="text" id="dollars" name="dollars" pattern="$[0-9]{6}">
+                <label for="wager">Amount you wish to wager</label>
+                <input type="text" id="wager" name="wager" placeholder="Amount in USD$">
+                <button type="submit" id="inpWager">Submit</button>
             </div>
         </nav>
-        <main id="md">
-            <div id="gdsp"></div>
-            <div id="cdsp">
-                <button type="submit" id="numberA">Add 4-7</button>
-                <button type="submit" id="numberB">Add 1-8</button>
+        <main id="maind">
+            <div id="gamedsp"></div>
+            <div id="controldsp">
+                <button type="submit" id="numbers47">Add 4-7</button>
+                <button type="submit" id="numbers18">Add 1-8</button>
             </div>
         </main>
-        <footer id="bd">
+        <footer id="bottomd">
             <div id="wldsp"></div>
         </footer>
     </div>

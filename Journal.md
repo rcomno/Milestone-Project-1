@@ -20,11 +20,12 @@ Order of funcs(? have to check)
 .input H/L stakes(may not do in favor of dynamic)
 .input Money amount
 .random intgen for each button
-.stop rig funcs after hitting num >16
+.stop rig funcs after hitting num >16(probably don't need to do this)
 .output W/L conditions
 .use W/L Cons to calc money
 .change money amount
 .play agian Y/N?-take winnings or continue playing?
+pass rig funcs as var?
 
 -css
 Have to figure out how render a background/effects for win-loose
