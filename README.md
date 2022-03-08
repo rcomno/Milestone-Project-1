@@ -29,4 +29,7 @@ Day 6: compleat css/Finialize Project-
 
 List of Code Sources:
 -Random Integer Generator from W3Schools: https://www.w3schools.com/js/js_random.asp
+-Validation technique: https://www.youtube.com/watch?v=ps0-JAQENXI
+-Return values frome function: https://www.youtube.com/watch?v=q-O1n445uys
+-Functions: https://www.youtube.com/watch?v=xUI5Tsl2JpY
 List of Assest Sources:
