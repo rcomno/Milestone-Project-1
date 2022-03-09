@@ -27,6 +27,7 @@ Order of funcs(? have to check)
 .play agian Y/N?-take winnings or continue playing? vaguliy headed in that direction
 pass rig funcs as var?
 Ive relized a system that Im incapable of coding that being a tracking across reloads of playr money
+WARNING VARABILES IN MOST FUNCTIONS MAY NEED TO BE CHANGED IN ORDER TO MOVE TOWARDS WORKING PROTOTYPE
 
 
 -css(won't get to styling no time)
