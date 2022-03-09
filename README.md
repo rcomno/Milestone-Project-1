@@ -33,6 +33,6 @@ List of Code Sources:
 -Return values frome function: https://www.youtube.com/watch?v=q-O1n445uys
 -If betweent two numbers function: https://stackoverflow.com/questions/14718561/how-to-check-if-a-number-is-between-two-values
 -Page reloading: https://www.w3schools.com/jsref/met_loc_reload.asp
--Validation technique: https://www.youtube.com/watch?v=ps0-JAQENXI
+-Stlying: https://www.youtube.com/watch?v=ps0-JAQENXI
 -Functions: https://www.youtube.com/watch?v=xUI5Tsl2JpY
 List of Assest Sources:

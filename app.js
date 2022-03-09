@@ -18,7 +18,7 @@ function win() {
 document.getElementById("inpWager").addEventListener('click', function(){
     let wager = Number(document.getElementById('wager').value);
     console.log(wager)
-    moneyDSP.innerHTML = "$"+ wager;
+    moneydsp.innerHTML = "$"+ wager;
     //let numberDSP = Number(document.getElementById("gamedsp").value);
 
 
@@ -97,7 +97,7 @@ document.getElementById("inpWager").addEventListener('click', function(){
     document.getElementById('numbers18').addEventListener('click', function() {
         document.getElementById('gamedsp').textContent =`${randInt(1,8)}`
         let numberDSP = Number(document.getElementById("gamedsp").value);
-        
+
         if (numberDSP >= '22') {
             let money = wager*-1;
             console.log(money)

@@ -1,1 +1,64 @@
+body {
+    font-family: sans-serif;
+    background-color: #fee;
+    color: rgb(42,42,42);
+    size: 1.5em;
+    text-align: center;
+    display: block;
+}
 
+nav {
+    padding: 1em;
+}
+
+main {
+    padding: 1em;
+}
+
+footer {
+    padding: 1em;
+}
+
+h2{
+    color: rgb(11,62,71);
+}
+
+label {
+    font-size: 1.5em;
+    padding: 1em;
+}
+
+input {
+    border: 1px #222a solid;
+    border-radius: 15px;
+    color: black;
+    font-size: 1.5em;
+    padding: 3px;
+    width: 15em;
+}
+
+button {
+    border: 1px gray solid;
+    border-radius: 15px;
+    padding: 8px;
+    font-size: 1em;
+    background: none;
+    transition: all 0.5s;
+}
+
+button:hover {
+    background-color: firebrick;
+    color: white;
+}
+
+.gamedsp {
+    border: 1px black solid;
+    padding: 1.25em;
+    font-size: 1.5em;
+}
+
+.moneydsp {
+    border: 1px black solid;
+    padding: 1.25em;
+    font-size: 1.5em;
+}
