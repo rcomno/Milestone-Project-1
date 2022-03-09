@@ -17,15 +17,17 @@ Find out how add randomint funcs together
 Figure out how to pass bet into W/L func
 W/L func needs to be able to see output of random int func
 Order of funcs(? have to check)
-.input H/L stakes(may not do in favor of dynamic)
-.input Money amount
-.random intgen for each button
-.stop rig funcs after hitting num >16(probably don't need to do this)
+.input H/L stakes(may not do in favor of dynamic)<- did that(kinda) instead
+.input Money amount x
+.random intgen for each button x(not sure how to take output from both and combine)
+.stop rig funcs after hitting num >16(probably don't need to do this)<- Modified asks for contiuned gambling after 16
 .output W/L conditions
-.use W/L Cons to calc money
-.change money amount
-.play agian Y/N?-take winnings or continue playing?
+.use W/L Cons to calc money x(i think)
+.change money amount x(i think)
+.play agian Y/N?-take winnings or continue playing? vaguliy headed in that direction
 pass rig funcs as var?
+Ive relized a system that Im incapable of coding that being a tracking across reloads of playr money
 
--css
+
+-css(won't get to styling no time)
 Have to figure out how render a background/effects for win-loose
