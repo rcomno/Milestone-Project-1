@@ -24,6 +24,7 @@ document.getElementById("inpWager").addEventListener('click', function(){
 
     document.getElementById('numbers47').addEventListener('click', function() {
         document.getElementById('gamedsp').textContent =`${randInt(4,7)}`
+        let numberDSP = Number(document.getElementById("gamedsp").value);
 
         if (numberDSP >= '22') {
             let money = wager*-1;
@@ -95,6 +96,7 @@ document.getElementById("inpWager").addEventListener('click', function(){
     
     document.getElementById('numbers18').addEventListener('click', function() {
         document.getElementById('gamedsp').textContent =`${randInt(1,8)}`
+        let numberDSP = Number(document.getElementById("gamedsp").value);
         
         if (numberDSP >= '22') {
             let money = wager*-1;
