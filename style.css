@@ -43,7 +43,7 @@ button {
     padding: 8px;
     font-size: 1em;
     background: none;
-    transition: all 0.5s;
+    transition: 0.5s;
 }
 
 button:hover {

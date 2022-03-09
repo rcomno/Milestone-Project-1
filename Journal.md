@@ -28,7 +28,9 @@ Order of funcs(? have to check)
 pass rig funcs as var?
 Ive relized a system that Im incapable of coding that being a tracking across reloads of playr money
 WARNING VARABILES IN MOST FUNCTIONS MAY NEED TO BE CHANGED IN ORDER TO MOVE TOWARDS WORKING PROTOTYPE
+Wasn't able to find a way to output rifs from sepreat click funcs to the same var/HTML element
 
 
 -css(won't get to styling no time)
 Have to figure out how render a background/effects for win-loose
+seem to have forgoton many basic CSS functions will need to re-learn
