@@ -1,7 +1,14 @@
+//1
 function randInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1) ) + min;
 }
 
+var rif18O = (function() {
+    var a = randInt(1,8)
+    return a;
+})(); 
+
+//4
 function placehold() {
     return location.reload();
 }
@@ -19,12 +26,20 @@ document.getElementById("inpWager").addEventListener('click', function(){
     let wager = Number(document.getElementById('wager').value);
     console.log(wager)
     moneydsp.innerHTML = "$"+ wager;
+    document.getElementById('gamedsp').textContent =`${randInt(0,9)}`
     //let numberDSP = Number(document.getElementById("gamedsp").value);
 
 
     document.getElementById('numbers47').addEventListener('click', function() {
-        document.getElementById('gamedsp').textContent =`${randInt(4,7)}`
-        let numberDSP = Number(document.getElementById("gamedsp").value);
+        //5
+        var rif47O = (function() {
+            var a = randInt(4,7)
+            return a;
+        })();
+        
+        let numberDSP = rif47O;
+        console.log(numberDSP)
+        document.getElementById('gamedsp').textContent =`${numberDSP}`
 
         if (numberDSP >= '22') {
             let money = wager*-1;
@@ -95,8 +110,14 @@ document.getElementById("inpWager").addEventListener('click', function(){
     })
     
     document.getElementById('numbers18').addEventListener('click', function() {
-        document.getElementById('gamedsp').textContent =`${randInt(1,8)}`
-        let numberDSP = Number(document.getElementById("gamedsp").value);
+        var rif18O = (function() {
+            var a = randInt(1,8)
+            return a;
+        })(); 
+        
+        document.getElementById('gamedsp').textContent =`${rif18O}`
+        console.log(rif18O)
+        let numberDSP = rif18O;
 
         if (numberDSP >= '22') {
             let money = wager*-1;
@@ -168,6 +189,7 @@ document.getElementById("inpWager").addEventListener('click', function(){
     })
 
     /*
+    //3
     if (0 < thenumber && thenumber < 15) {
         let money = wager*1;
         console.log(money)
