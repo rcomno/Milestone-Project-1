@@ -33,7 +33,7 @@ List of Code Sources:
 -2 Return values frome function: https://www.youtube.com/watch?v=q-O1n445uys
 -3 If betweent two numbers function(answer 2): https://stackoverflow.com/questions/14718561/how-to-check-if-a-number-is-between-two-values
 -4 Page reloading: https://www.w3schools.com/jsref/met_loc_reload.asp
--5 Varabile output functions(answer 2): https://stackoverflow.com/questions/3941381/assign-function-return-value-to-some-variable-using-javascript
+-5 Varabile output functions(answer 1): https://stackoverflow.com/questions/3941381/assign-function-return-value-to-some-variable-using-javascript
 -6 Stlying: https://www.youtube.com/watch?v=ps0-JAQENXI
 -7 Functions: https://www.youtube.com/watch?v=xUI5Tsl2JpY
 List of Assest Sources:

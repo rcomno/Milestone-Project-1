@@ -25,7 +25,7 @@ document.getElementById("inpWager").addEventListener('click', function(){
     //let numberDSP = Number(document.getElementById("gamedsp").value);
 
     document.getElementById('numbers47').addEventListener('click', function() {
-        var numberDSP = randInt(16,22);
+        var numberDSP = randInt(4,7);
         console.log(numberDSP)
         document.getElementById('gamedsp').textContent =`${numberDSP}`
 
@@ -96,7 +96,7 @@ document.getElementById("inpWager").addEventListener('click', function(){
             }
         }
     })
-    /*
+
     document.getElementById('numbers18').addEventListener('click', function() { 
         var numbersDSP = randInt(1,8);
         console.log(numbersDSP)
@@ -171,7 +171,6 @@ document.getElementById("inpWager").addEventListener('click', function(){
         }
     
     })
-    */
 
     /*
     //3
